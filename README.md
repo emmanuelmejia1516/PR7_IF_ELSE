@@ -16,5 +16,10 @@ if x == 200:
     print("x es igual a 200")  # Mensaje si la condición es verdadera
 else:
     print("x es menor que y")  # Mensaje si la condición es falsa
-    
-![image](https://github.com/user-attachments/assets/00f425e9-939c-40dd-903f-c64a256a8c1b)
+
+![image](https://github.com/user-attachments/assets/90bbedbb-8e2f-4b5c-9379-2150d977d6c5)
+![image](https://github.com/user-attachments/assets/a681ec4b-681a-4dcf-8b39-8cd1d6ee4dd1)
+![image](https://github.com/user-attachments/assets/3216d828-1049-4642-afce-7f76893a5206)
+
+
+
